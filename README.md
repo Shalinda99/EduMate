@@ -1,7 +1,4 @@
-# Student-Management-System-Using-SpringBoot-React
-
-
-Welcome to the Student management System! This project consists of both frontend and backend components to facilitate Student Management , Add Students , Edit information such functions.
+This project consists of both frontend and backend components to manage student records efficiently, including functionalities like adding, editing, and deleting student information.
 
 ## Table of Contents
 - [Introduction](#introduction)
